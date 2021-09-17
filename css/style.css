@@ -63,7 +63,6 @@ nav li a:hover, nav li a:active {
 .box-one {
   height: 220px;
   margin: 20px auto;
-  background-color: #e1d67a;
 }
 
 .banner-top {
@@ -74,7 +73,6 @@ nav li a:hover, nav li a:active {
 }
 
 .box-two {
-  height: 80px;
   padding-top: 15px;
 }
 
@@ -127,7 +125,6 @@ nav li a:hover, nav li a:active {
 /*************FOOTER**************/
 
 footer {
-  height: 80px;
   margin-top: 5px;
 }
 
